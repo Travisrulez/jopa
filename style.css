@@ -1,0 +1,61 @@
+.col-5 img {
+    width: 15rem;
+    border-radius: 50%;
+}
+
+.col-6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.name {
+    display: block;
+    border-bottom: 1px solid lightgray;
+    width: 10rem;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.chpas {
+    text-align: right;
+    margin-top: 10px;
+    font-size: 10px;
+    display: block;
+    border-bottom: 1px solid lightgray;
+    width: 10rem;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form input {
+    width: 10rem;
+}
+
+.lot {
+    margin-top: 10px;
+    color: black;
+    display: block;
+    border-bottom: 1px solid lightgray;
+    width: 10rem;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.lot1 {
+    display: block;
+    width: 5rem;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.lot11 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
